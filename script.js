@@ -1,9 +1,7 @@
-
 /*
-Snow Fall 1 - no images - Java Script
-Visit http://rainbow.arch.scriptmania.com/scripts/
-  for this script and many more
-*/
+Snow Fall 1  Java Script
+hello!
+/
 
 // Set the number of snowflakes (more than 30 - 40 not recommended)
 var snowmax=35
